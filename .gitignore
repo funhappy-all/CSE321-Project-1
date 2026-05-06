@@ -1,0 +1,6 @@
+/figures
+__pycache__/
+.venv
+venv
+.DS_Store
+report_tables.md
